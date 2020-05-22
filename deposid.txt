@@ -1,6 +1,6 @@
 Name: Aleksei Kazakov
 ID:*****************
-email: aleks78KZ@gamil.com
+email: aleks78KZ@gmail.com
 Country: Russia
 Account balance: 0 $
-Deposit: -50 $
+Deposit: 50 $
